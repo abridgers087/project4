@@ -1,0 +1,34 @@
+Create a new database and collection in mongo
+DB Name: nyc
+Collection Name: rats
+
+Import: Rodent_Inspection into Mongo
+
+Keep:   Inspection_type
+	zip_code
+	borough
+	inspection_date (change to date format instead of string)
+	result
+
+Drop:  	Job_ticket_or_work_order_id
+	job_id
+	job_progress
+	bbl
+	boro_code
+	block
+	lot
+	house_number
+	street_name
+	x_coord
+	y_coord
+	latitude
+	longitude
+	approved_date
+	location
+	community board
+	council district
+	census tract
+	bin
+	nta	
+	
+	
