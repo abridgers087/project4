@@ -41,4 +41,5 @@ Preprocessing steps, such as encoding categorical variables, transforming numeri
 # Other Folders
 - <b><i>Resources</b></i>: Project Data Dictionary from NYC Open Data, Project Proposal, User Guide to "Rat Data" from NYC Open Data.
 - <b><i>Results</b></i>: Hyperband test results folder.
-- <b><i>Model</b></i>: Saved ML Model (can be loaded with load_model from tensorflow)
+- <b><i>Model</b></i>: Saved ML Model (can be loaded with load_model from tensorflow).
+- <b><i>Graphics</b></i>: Assorted charts and graphs used for research.
